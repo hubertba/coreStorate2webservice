@@ -1,0 +1,2 @@
+coreStorate2webservice
+======================
